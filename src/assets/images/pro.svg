@@ -1,0 +1,35 @@
+<svg width="32" height="42" viewBox="0 0 32 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_5589_69616)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M27.3021 26.2838C33.5219 29.8953 33.5219 35.7137 27.3021 39.3252C21.0824 42.9367 10.9168 42.9367 4.69704 39.3252C-1.52271 35.7137 -1.52271 29.8953 4.69704 26.2838C10.9168 22.6723 21.0824 22.6723 27.3021 26.2838Z" fill="#F5F5F5"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M25.2959 27.4199C30.4456 30.3626 30.4456 35.2447 25.2959 38.1874C20.1462 41.197 11.7864 41.197 6.63667 38.1874C1.48699 35.2447 1.48699 30.3626 6.63667 27.4199C11.7864 24.4772 20.1462 24.4772 25.2959 27.4199Z" fill="#E9E9EB"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M23.3561 28.4909C27.4357 30.8317 27.4357 34.6438 23.3561 36.9846C19.2765 39.3253 12.7223 39.3253 8.64272 36.9846C4.5631 34.6438 4.5631 30.8317 8.64272 28.4909C12.7223 26.1502 19.2765 26.1502 23.3561 28.4909Z" fill="#DDDEE1"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M21.4173 29.6938C24.4268 31.4326 24.4268 34.1747 21.4173 35.9135C18.4077 37.6524 13.5924 37.6524 10.6497 35.9135C7.64019 34.1747 7.64019 31.4326 10.6497 29.6938C13.6593 27.9549 18.4746 27.9549 21.4173 29.6938Z" fill="#D1D2D6"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M28.9074 3.41073V26.6177L19.0762 24.8789V1.67188L28.9074 3.41073Z" fill="#9BC957"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M19.0754 1.67188V24.8789L13.6582 30.8311V7.6241L19.0754 1.67188Z" fill="#6A8C38"/>
+<path d="M13.7255 7.62402H2.82422V30.831H13.7255V7.62402Z" fill="#9BC957"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M29.1747 1.93945V25.1465L28.9072 26.6178V3.41079L29.1747 1.93945Z" fill="#BDC3C7"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M28.907 3.41083L19.0758 1.67197L13.6586 7.6242H2.82422V6.08599H12.7892L18.2733 0L29.1745 1.93949L28.907 3.41083Z" fill="#BDBDBD"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M28.9074 20.3316V22.1374L19.0762 20.3985V18.5928L28.9074 20.3316Z" fill="#E6EAEB"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M19.0754 18.5928V20.3985L13.6582 26.3507V24.545L19.0754 18.5928Z" fill="#A3ADB3"/>
+<path d="M13.7255 24.5449H2.82422V26.3507H13.7255V24.5449Z" fill="#E6EAEB"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M28.9074 10.7008V12.5065L19.0762 10.7676V8.96191L28.9074 10.7008Z" fill="#E6EAEB"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M19.0754 8.96191V10.7676L13.6582 16.7199V14.8473L19.0754 8.96191Z" fill="#A3ADB3"/>
+<path d="M13.7255 14.8467H2.82422V16.6524H13.7255V14.8467Z" fill="#E6EAEB"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M25.0948 25.9491L23.4229 25.6147V2.47461L25.0948 2.74213V25.9491Z" fill="#E6EAEB"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17.0697 27.1531L16.6016 27.6213V18.4589L17.0697 17.9238V27.1531Z" fill="#A3ADB3"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17.069 17.5225V18.6594L13.6582 22.3377V21.2677L17.069 17.5225Z" fill="#A3ADB3"/>
+<path d="M13.6587 21.2676H7.50586V22.4045H13.6587V21.2676Z" fill="#E6EAEB"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.50586 7.62402H8.57592V21.468L7.50586 22.003V7.62402Z" fill="#E6EAEB"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16.4004 4.6818L17.6042 3.27734V11.7041L16.4004 12.841V4.6818Z" fill="#A3ADB3"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M19.0762 1.67188L23.4233 2.47442V9.69735L19.0762 8.96168V1.67188Z" fill="#E8D5A7"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M19.0762 10.7676L23.4233 11.5032V19.3281L19.0762 18.5924V10.7676Z" fill="#E8D5A7"/>
+<path d="M13.659 16.7197H8.57617V21.2675H13.659V16.7197Z" fill="#E8D5A7"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17.6045 3.27697L19.0758 1.67188V8.96168L17.6045 10.5668V3.27697Z" fill="#AB9665"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17.069 12.9746L19.0754 10.7676V18.5924L17.069 20.8663V17.5224L13.6582 21.2676V16.7198L17.069 12.9746Z" fill="#AB9665"/>
+</g>
+<defs>
+<clipPath id="clip0_5589_69616">
+<rect width="31.9682" height="42" fill="white" transform="translate(0.015625)"/>
+</clipPath>
+</defs>
+</svg>

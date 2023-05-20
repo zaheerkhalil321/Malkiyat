@@ -1,0 +1,17 @@
+diff --git a/node_modules/react-native-modalize/.index.js.swp b/node_modules/react-native-modalize/.index.js.swp
+new file mode 100644
+index 0000000..9975ef5
+Binary files /dev/null and b/node_modules/react-native-modalize/.index.js.swp differ
+diff --git a/node_modules/react-native-modalize/lib/index.js b/node_modules/react-native-modalize/lib/index.js
+index 5d5edac..6c2bf51 100644
+--- a/node_modules/react-native-modalize/lib/index.js
++++ b/node_modules/react-native-modalize/lib/index.js
+@@ -458,7 +458,7 @@ onOpen, onOpened, onClose, onClosed, onBackButtonPress, onPositionChange, onOver
+                 onOverlayPress();
+             }
+             const dest = !!alwaysOpen ? 'alwaysOpen' : 'default';
+-            handleClose(dest);
++            // handleClose(dest);
+         }
+     };
+     const handleGestureEvent = react_native_1.Animated.event([{ nativeEvent: { translationY: dragY } }], {

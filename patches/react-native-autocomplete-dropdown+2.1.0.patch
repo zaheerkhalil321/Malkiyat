@@ -1,0 +1,42 @@
+diff --git a/node_modules/react-native-autocomplete-dropdown/.index.js.swp b/node_modules/react-native-autocomplete-dropdown/.index.js.swp
+new file mode 100644
+index 0000000..d9fba69
+Binary files /dev/null and b/node_modules/react-native-autocomplete-dropdown/.index.js.swp differ
+diff --git a/node_modules/react-native-autocomplete-dropdown/src/index.js b/node_modules/react-native-autocomplete-dropdown/src/index.js
+index 36efb60..fa34997 100644
+--- a/node_modules/react-native-autocomplete-dropdown/src/index.js
++++ b/node_modules/react-native-autocomplete-dropdown/src/index.js
+@@ -34,6 +34,7 @@ export const AutocompleteDropdown = memo(
+     const InputComponent = props.InputComponent ?? TextInput
+ 
+     useLayoutEffect(() => {
++      open()
+       if (ref) {
+         if (typeof ref === 'function') {
+           ref(inputRef.current)
+@@ -194,6 +195,7 @@ export const AutocompleteDropdown = memo(
+     }, [props.EmptyResultComponent])
+ 
+     const onClearPress = useCallback(() => {
++
+       setSearchText('')
+       setSelectedItem(null)
+       setIsOpened(false)
+@@ -256,7 +258,7 @@ export const AutocompleteDropdown = memo(
+ 
+     const onSubmit = useCallback(
+       e => {
+-        inputRef.current.blur()
++        // inputRef.current.blur()
+         if (props.closeOnSubmit) {
+           close()
+         }
+@@ -280,7 +282,7 @@ export const AutocompleteDropdown = memo(
+             value={searchText}
+             onChangeText={onChangeText}
+             autoCorrect={false}
+-            onBlur={onBlur}
++             onBlur={onBlur}
+             onFocus={onFocus}
+             onSubmitEditing={onSubmit}
+             placeholderTextColor="#d0d4dc"
