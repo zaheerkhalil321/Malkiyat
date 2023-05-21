@@ -19,7 +19,7 @@ Welcome to the React Native Real Estate App! This app aims to revolutionize the 
 
 ### Installation
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/zaheerkhalil321/Malkiyat.git`
 2. Navigate to the project directory: `cd react-native-real-estate-app`
 3. Install dependencies: `npm install` or `yarn install`
 
@@ -50,5 +50,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or inquiries, please contact [Your Name] at [Your Email Address].
+For any questions or inquiries, please contact Muhammad Zaheer Khalil at zaheerkhalil2@gmail.com.
 
